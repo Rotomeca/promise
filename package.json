@@ -1,0 +1,23 @@
+{
+  "name": "@rotomeca/promise",
+  "version": "1.0.0",
+  "description": "Add custom promise",
+  "main": "RotomecaPromise.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rotomeca/promise.git"
+  },
+  "keywords": [
+    "promise",
+    "async"
+  ],
+  "author": "Rotomeca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rotomeca/promise/issues"
+  },
+  "homepage": "https://github.com/Rotomeca/promise#readme",
+  "dependencies": {
+    "@rotomeca/event": "^1.0.0"
+  }
+}
